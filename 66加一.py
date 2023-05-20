@@ -21,7 +21,7 @@ def plusOne2(digits):
 
     num = ""
 
-    # 转转字符串
+    # 转字符串
     for i in digits:
         num = num + str(i)
 
